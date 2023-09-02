@@ -9,7 +9,7 @@ Generate Devise views styled with either TailwindCSS 3 or Bootstrap 5 easily.
 1. Add the gem to your Rails application's Gemfile:
 
 ```ruby:Gemfile
-gem 'devise_template'
+gem 'devise_template', group: :development
 ```
 
 2. Then execute
